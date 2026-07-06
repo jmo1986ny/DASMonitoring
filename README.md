@@ -1,2 +1,2 @@
 # DASMonitoring
-Utilize OpenGear cellular modems to monitor your private cellular DAS deployment
+Utilize OpenGear cellular modems to monitor your cellular DAS deployment
